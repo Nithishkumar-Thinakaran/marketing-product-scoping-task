@@ -1,4 +1,5 @@
-# Task 2 - Data Pipeline
+Task 2 - Data Pipeline
+---------------------------
 ## Overview
 
 This project demonstrates a simple ETL data pipeline using Python and Google BigQuery.
