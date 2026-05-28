@@ -3,14 +3,18 @@
 
 This project demonstrates a simple ETL data pipeline using Python and Google BigQuery.
 
+----------------------------
+
 ## Pipeline Flow
 
 API → Python → Data Transformation → BigQuery → SQL Analysis
 
+--------------------------------
 ## API Used
 
 Open-Meteo Weather API
 
+---------------------------
 ## Features
 
 * Fetches real-time weather data
@@ -19,6 +23,7 @@ Open-Meteo Weather API
 * Uploads data to BigQuery
 * Executes SQL analysis
 
+-------------------------------------
 ## Technologies Used
 
 * Python
@@ -26,10 +31,12 @@ Open-Meteo Weather API
 * Requests
 * Google BigQuery
 
+-----------------------------------------
 ## Derived Field
 
 Temperature in Fahrenheit was calculated from Celsius data.
 
+------------------------------------------------
 ## Error Handling
 
 The pipeline includes:
