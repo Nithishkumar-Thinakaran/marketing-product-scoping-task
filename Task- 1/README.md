@@ -1,4 +1,4 @@
-Task-1-Product Scoping
+Task 1 - Product Scoping
 ----------------------------
 
 ### Overview
